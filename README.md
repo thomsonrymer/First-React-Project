@@ -1,4 +1,4 @@
 # react-app
 
-# Tutorial
-- Following [this tutorial](https://youtu.be/SqcY0GlETPk)
+### Tutorial
+Following [this tutorial](https://youtu.be/SqcY0GlETPk)
